@@ -1,0 +1,31 @@
+body { 
+    background-image: linear-gradient(to right, #16213E 0%, #E94560 100%);
+    color: #A5C9CA;
+    margin: auto;  
+    text-align: center; 
+    vertical-align: middle;
+    /* Google Font With 0 Crossed Out */
+    font-family: "Orbitron", serif;
+}
+
+.container { 
+    top: 50%;
+    left: 50%; 
+}
+
+.time, 
+.colon { 
+    font-size: 150px;
+}
+
+.colon { 
+    font-weight: bolder;
+}
+
+.meridian { 
+    padding-left: 50px;
+}
+
+h1 { 
+    font-size: 50px;
+}
