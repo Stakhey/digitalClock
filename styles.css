@@ -29,3 +29,23 @@ body {
 h1 { 
     font-size: 50px;
 }
+
+@media (max-width: 768px) {
+    .time,
+    .colon{ 
+        font-size: 100px;
+    }
+    h1 { 
+        font-size: 50px;
+    }
+}
+
+@media (max-width: 425px) { 
+    .time, 
+    .colon{ 
+        font-size: 60px;
+    }
+    h1 { 
+        font-size: 30px;
+    }
+}
